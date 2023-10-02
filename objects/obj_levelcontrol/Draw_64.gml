@@ -1,0 +1,1 @@
+draw_text_ext_transformed_color(490, 30, ("Switches Left: "+string(pressesLeft)), 10, 10000, 3, 3, 0, c_black, c_black, c_black, c_black, 1)
